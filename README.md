@@ -16,6 +16,8 @@
 [Error Handling](#error-handling) •
 [Advanced](#advanced-usage)
 
+📖 [English README](README.md) | 📖 [فارسی](README.fa.md)
+
 </div>
 
 ---
